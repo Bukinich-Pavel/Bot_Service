@@ -1,0 +1,518 @@
+﻿Выполняется установка сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+Устанавливается служба Logger...
+Служба Logger успешно установлена.
+Создается исходный EventLog Logger в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+Выполняется удаление сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+Выполняется удаление источника EventLog Logger.
+Выполняется удаление службы Logger из системы...
+Служба Logger успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+Устанавливается служба Logger...
+Служба Logger успешно установлена.
+Создается исходный EventLog Logger в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+Выполняется установка сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+   n = 
+Устанавливается служба Logger...
+Создается исходный EventLog Logger в журнале Application...
+Выполняется откат для сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+   n = 
+Восстанавливается исходное состояние журнала событий для источника Logger.
+Выполняется удаление сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+Выполняется удаление источника EventLog Logger.
+Выполняется удаление службы Logger из системы...
+Служба Logger успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+Выполняется удаление сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+Устанавливается служба BotKsy...
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется откат для сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+Восстанавливается исходное состояние журнала событий для источника BotKsy.
+Выполняется установка сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.InstallLog
+   assemblypath = C:\Users\Ксения\source\repos\Bot\Bot\bin\Debug\Bot.exe
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется откат для сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Восстанавливается исходное состояние журнала событий для источника BotKsy.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется откат для сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Восстанавливается исходное состояние журнала событий для источника BotKsy.
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется фиксация сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется фиксация сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется фиксация сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется фиксация сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется фиксация сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется фиксация сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется фиксация сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Попытка останова службы BotKsy.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется фиксация сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется откат для сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Восстанавливается исходное состояние журнала событий для источника BotKsy.
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog KsySend.
+Предупреждение. Источник KsySend не зарегистрирован на локальном компьютере.
+Выполняется удаление службы KsySend из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Устанавливается служба KsySend...
+Служба KsySend успешно установлена.
+Создается исходный EventLog KsySend в журнале Application...
+Выполняется фиксация сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog KsySend.
+Выполняется удаление службы KsySend из системы...
+Служба KsySend успешно удалена из системы.
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Попытка останова службы BotKsy.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Устанавливается служба KsySend...
+Служба KsySend успешно установлена.
+Создается исходный EventLog KsySend в журнале Application...
+Выполняется фиксация сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog KsySend.
+Выполняется удаление службы KsySend из системы...
+Служба KsySend успешно удалена из системы.
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется откат для сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Восстанавливается исходное состояние журнала событий для источника BotKsy.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog BotKsy.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется откат для сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Восстанавливается исходное состояние журнала событий для источника BotKsy.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется откат для сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Восстанавливается исходное состояние журнала событий для источника BotKsy.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется откат для сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Восстанавливается исходное состояние журнала событий для источника BotKsy.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Выполняется фиксация сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Устанавливается служба BotSendKsy...
+Служба BotSendKsy успешно установлена.
+Создается исходный EventLog BotSendKsy в журнале Application...
+Выполняется фиксация сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Выполняется удаление источника EventLog BotSendKsy.
+Выполняется удаление службы BotSendKsy из системы...
+Служба BotSendKsy успешно удалена из системы.
+Выполняется удаление источника EventLog BotKsy.
+Выполняется удаление службы BotKsy из системы...
+Служба BotKsy успешно удалена из системы.
+Выполняется установка сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
+Устанавливается служба BotKsy...
+Служба BotKsy успешно установлена.
+Создается исходный EventLog BotKsy в журнале Application...
+Устанавливается служба BotSendKsy...
+Служба BotSendKsy успешно установлена.
+Создается исходный EventLog BotSendKsy в журнале Application...
+Выполняется фиксация сборки 'D:\Unity\Bot\Bot\bin\Debug\Bot.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Unity\Bot\Bot\bin\Debug\Bot.exe
+   logfile = D:\Unity\Bot\Bot\bin\Debug\Bot.InstallLog
